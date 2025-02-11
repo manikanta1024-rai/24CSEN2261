@@ -2,7 +2,7 @@
 
 void swap(int* a, int* b);
 
-// Partition function
+// Partition function 
 int partition(int arr[], int low, int high) {
     
     // Choose the pivot
