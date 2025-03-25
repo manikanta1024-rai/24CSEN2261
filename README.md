@@ -1,4 +1,4 @@
 # 24CSEN2261
 ## index
 
-[binary tree](
+[sort](quick_sort.c)
