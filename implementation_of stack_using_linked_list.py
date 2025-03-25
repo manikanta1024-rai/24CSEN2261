@@ -1,4 +1,4 @@
-# Java program to implement a stack using singly linked
+# python program to implement a stack using singly linked
 # list
 
 # Class representing a node in the linked list
