@@ -46,10 +46,10 @@ def infixToPostfix(s):
     # Pop all the remaining elements from the stack
     while st:
         result += st.pop()
-OUTPUT:
-abcd^e-fgh*+^*+i-
 
     print(result)
 
 exp = "a+b*(c^d-e)^(f+g*h)-i"
 infixToPostfix(exp)
+OUTPUT:
+abcd^e-fgh*+^*+i-
