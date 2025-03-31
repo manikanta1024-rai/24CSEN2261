@@ -84,3 +84,8 @@ st.pop()
 
 # Print top element of the stack
 print("Top element is", st.peek())
+
+OUTPUT:
+Top element is 44
+Removing two elements...
+Top element is 22
