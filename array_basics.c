@@ -28,5 +28,11 @@ int main(void) {
     }
 }
 
-/* 
-Complete this code with necessary functions */
+OUTPUT:
+
+1. Insert
+2. Delete
+3. Search
+4. Count the elements in the array
+5. Exit
+ Select your choice: 4
