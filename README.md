@@ -11,4 +11,4 @@
 
 [array](array_basics.c)
 
-[linked list](implementation_of stack_using_linked_list.py)
+
