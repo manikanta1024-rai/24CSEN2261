@@ -103,3 +103,8 @@ if __name__ == "__main__":
     # Display the front and rear elements of the queue
     print("Queue Front:", q.get_front())
     print("Queue Rear:", q.get_rear())
+OUTPUT:
+Queue Front: 10
+Queue Rear: 20
+Queue Front: 40
+Queue Rear: 50
