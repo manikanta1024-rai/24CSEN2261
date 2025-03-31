@@ -28,3 +28,7 @@ if __name__ == '__main__':
     q.dequeue()
     q.enqueue(4)
     q.display()
+OUTPUT:
+1
+2 3 4
+
