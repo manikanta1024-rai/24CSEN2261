@@ -50,3 +50,6 @@ def convertToPrefix(infix):
 if __name__ == "__main__":
     s = "(a-b/c)*(a/k-l)"
     print(convertToPrefix(s))
+
+OUTPUT
+*-a/bc-/akl
