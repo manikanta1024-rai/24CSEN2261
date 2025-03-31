@@ -5,7 +5,7 @@ def prec(c):
     if c == '^':
         return 3
     elif c == '/' or c == '*':
-        return 2
+        return 2 
     elif c == '+' or c == '-':
         return 1
     else:
