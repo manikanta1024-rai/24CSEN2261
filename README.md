@@ -10,3 +10,5 @@
 [binary tree](binary_tree.py)
 
 [array](array_basics.c)
+
+[linked list]()
