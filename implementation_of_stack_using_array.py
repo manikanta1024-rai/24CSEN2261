@@ -42,4 +42,8 @@ print("Elements present in stack:", end=" ")
 while not s.is_empty():
     print(s.peek(), end=" ")
     s.pop()
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+
+OUTPUT:
+30 popped from stack
+Top element is: 20
+Elements present in stack: 20 10 
