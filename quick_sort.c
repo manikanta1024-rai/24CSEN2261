@@ -59,3 +59,6 @@ int main() {
     
  return 0;
 }
+
+OUTPUT
+1 5 7 8 9 10 
