@@ -56,5 +56,7 @@ arr = [9, 4, 3, 8, 10, 2, 5]
 heapSort(arr)
 print("Sorted array is ")
 printArray(arr)
-OUTYPUT:
+OUTPUT:
+Sorted array is 
+2 3 4 5 8 9 10 
 
