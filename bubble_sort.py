@@ -30,3 +30,10 @@ bubble_sort(arr)
 
 print("Sorted list is:")
 print(arr)
+
+OUTPUT:
+Unsorted list is:
+[6, 6, 2]
+Sorted list is:
+[2, 6, 6]
+
